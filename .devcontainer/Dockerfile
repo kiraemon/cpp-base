@@ -12,5 +12,4 @@ ENV TZ=Asia/Tokyo
 RUN apt install -y wget \
   g++ \
   cmake \
-  git \
-  clang-format
+  git
